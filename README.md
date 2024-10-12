@@ -1,4 +1,4 @@
-### [Live Demo](https://e-commerce-ftn.netlify.app)
+# [Live Demo](https://e-commerce-ftn.netlify.app)
 
 
 ## Hero section 
